@@ -1,10 +1,17 @@
 {
-  "name": "mienviomod/moduletestmagento",
-  "description": "Magento 2 Module Test",
+  "name": "EverModulo/MagentoModever",
+  "description": "Magento 2 Module Test Ever",
   "keywords": [
     "magento",
     "mienvio"
   ],
+  "require": {
+    "php": ">=7.2.0",
+    "magento/framework": "*"
+  },
+  "license": "MIT",
+  "type": "magento2-module",
+  "version": "1.0.1",
   "authors": [
     {
       "name": "Mienvio",
